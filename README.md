@@ -3,9 +3,9 @@ Applied Machine Learning Projects at Cornell with Professor Serge Bolongie
 
 Assignment 1:
 
-*Implemented K-neartest-neighbor algorithm from scratch
-*Trained a kNN model to recognize sketches of digits and return identity of new digits in the testing data set
-*Performed cross-validation using Naive Bayes Classifier & Logistic Regression Model. Used data from training set (demographics, type of cabin, etc.), to train the algorithm and then evaluated whether an unseen list of passengers survived the Titanic disaster or not.
+1.Implemented K-neartest-neighbor algorithm from scratch
+2.Trained a kNN model to recognize sketches of digits and return identity of new digits in the testing data set
+3.Performed cross-validation using Naive Bayes Classifier & Logistic Regression Model. Used data from training set (demographics, type of cabin, etc.), to train the algorithm and then evaluated whether an unseen list of passengers survived the Titanic disaster or not.
 
 Assignment 2:
 
